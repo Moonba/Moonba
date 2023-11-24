@@ -12,6 +12,7 @@ Repos for learning projects with examples of simple technical implementation.
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|
 | [Tech for Social Good with DrivenData competitions](https://github.com/Moonba/DrivenData)                                                | Statistical Machine Learning  |
 | [Study of the Fast AI course](https://github.com/Moonba/fastai)                                                                          | Deep Learning                 |
-| [hello-azure-web-app](https://github.com/Moonba/hello-azure-web-app)                                                                     | Azure                         |
+| [Azure fundamentals](https://github.com/Moonba/hello-azure-web-app)                                                                      | Azure                         |
+| [Kaggle competitions](https://github.com/Moonba/Kaggle)                                                                                  | Kaggle                        |
 
 <br>
